@@ -1,2 +1,2 @@
 # FunctionalItem
-This is a repository of functional items
+This is the library of the event system
